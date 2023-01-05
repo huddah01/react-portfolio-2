@@ -38,10 +38,11 @@ const About = () => {
           </div>
           
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Vel eum ducimus quasi praesentium, laudantium commodi 
-            optio dignissimos id et earum itaque provident consequatur 
-            obcaecati eos enim voluptatum? Dolore, excepturi veritatis!
+            I'm a mathematics and computer science student from UCSD
+            graduating in spring 2023. I've had previous internship 
+            experience as full stack developer. I enjoy both aspects 
+            of front end and back end development. I hope to improve 
+            my skills as an engineer and lead a fulfilling career.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
